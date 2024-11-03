@@ -36,7 +36,7 @@
 
 ---
 
-### 📬 Let's Connect
+### 📬 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/jasperhooker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="mailto:jhooker2022@fau.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
