@@ -25,6 +25,7 @@
 
 ### 🚀 Projects
 - **"The project which shall not be named!"**: Upcoming modular, fully flexible and customizable utility for enhancing workflow
+- **Script Comparison Utility**: The SCU (Script Comparator Utility) allows for mass comparison of iteratively created files/scripts, allowing for an audit to be conducted on the extent of changes over time and labelling them efficiently
 
 ---
 
